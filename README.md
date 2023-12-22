@@ -1,6 +1,7 @@
 # Steps to aquire codes
 
-1. Install [genymotion](https://www.genymotion.com/download/)
+1. Create an account and install [genymotion](https://www.genymotion.com/download/)
+1. Login to genymotion
 1. Create a virtual phone with Android 5.1
 1. Install:
    - [ARM Translation](https://github.com/m9rco/Genymotion_ARM_Translation/raw/master/package/Genymotion-ARM-Translation_for_5.1.zip)
